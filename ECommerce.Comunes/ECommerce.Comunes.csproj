@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Classes\Constants\" />
+    <Folder Include="Classes\Contracts\ECommerce\Compras\" />
+    <Folder Include="Classes\Contracts\ECommerce\Productos\" />
+    <Folder Include="Classes\Enums\" />
+    <Folder Include="Classes\Helpers\" />
+  </ItemGroup>
+
 </Project>

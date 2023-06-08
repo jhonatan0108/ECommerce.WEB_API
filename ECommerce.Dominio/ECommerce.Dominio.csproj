@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\ECommerce\Compras\" />
+    <Folder Include="Services\ECommerce\Productos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Infraestructura\ECommerce.Infraestructura.csproj" />
+  </ItemGroup>
+
 </Project>
